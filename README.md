@@ -2,6 +2,8 @@
 
 This is an empty Android project (so far), created to practice the implementation of CI/CD pipeline. 
 
+TODO: Update the README content
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
